@@ -25,9 +25,11 @@ h6 {
     text-transform: uppercase;
     text-align: center;
 }
+
 h3 {
     text-align: left;
 }
+
 img {
     width: 100%;
     height: auto;
@@ -37,8 +39,17 @@ img {
     width: 20%;
 }
 
-a   { 
-    color: azure;
+a{
+    color: whitesmoke;
+}
+
+a:hover {
+    color: rgb(203, 157, 97);
+    }
+
+.back {
+    font-size: 30px;
+    color: black;
 }
 
 .sbhead {
