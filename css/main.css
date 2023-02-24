@@ -115,8 +115,25 @@ a:hover {
 }
 
 .alcol2 {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
+    display: block;
+    margin-block-start: 14em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: -121px;
+}
+
+.alcol3 {
+    display: block;
+    margin-block-start: 48em;
+    margin-block-end: 1em;
+    margin-inline-start: 52px;
+    margin-inline-end: -64px;
+}
+
+.alcol4 {
+    display: block;
+    margin-block-start: 85em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
