@@ -91,8 +91,9 @@ a:hover {
 .textcols {
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 150px;
     padding: 20px;
+    font-size: 30px;
 }
 
 .tcol1{
@@ -136,4 +137,10 @@ a:hover {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+}
+
+.email {
+    font-size: 20px;
+    color: black;
+    text-align: center;
 }
