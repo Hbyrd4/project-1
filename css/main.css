@@ -70,6 +70,14 @@ a:hover {
     border: 1px black;
 }
 
+.midrow {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    border: 1px black;
+}
+
 .botrow {
     display: flex;
     justify-content: center;
@@ -79,6 +87,11 @@ a:hover {
 }
 
 .top {
+    display: flex;
+    gap: 20px;
+}
+
+.mid {
     display: flex;
     gap: 20px;
 }
