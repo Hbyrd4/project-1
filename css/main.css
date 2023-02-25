@@ -153,7 +153,12 @@ a:hover {
 }
 
 .email {
-    font-size: 20px;
+    font-size: 15px;
     color: black;
-    text-align: center;
+}
+
+.sbfoot {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
 }
